@@ -1,2 +1,27 @@
-# personal-project
-github_test
+personal project
+
+============================
+编一个小软件，实现四则运算
+
+
+功能描述：
+
+    能根据题目回答情况，自动判别答案的正误，完成最后总成绩的统计、输出；
+    题目不要出现重复，并且可定制题目数量和打印方式；
+    可以控制下列参数：是否有乘除法、是否有括号、数值范围、加减法有无负数、除法有无余数、是否支持分数等；
+
+开发环境：
+
+    基于Microsoft Visual Studio 2010开发环境，环境配置相对简单，按提示来就可以。
+    [下载网址](https://www.visualstudio.com/zh-hans/vs/older-downloads/)
+
+相关文件：
+
+    personal project.vcxproj
+    这是使用应用程序向导生成的 VC++ 项目的主项目文件， 其中包含生成该文件的 Visual C++ 的版本信息，以及有关使用应用程序向导选择的平台、配置和项目功能的信息。
+
+    personal project.vcxproj.filters
+    这是使用“应用程序向导”生成的 VC++ 项目筛选器文件。 它包含有关项目文件与筛选器之间的关联信息。 在 IDE 中，通过这种关联，在特定节点下以分组形式显示具有相似扩展名的文件。 例如，“.cpp”文件与“源文件”筛选器关联。
+
+    personal project.cpp
+    这是主应用程序源文件。
