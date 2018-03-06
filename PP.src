@@ -132,4 +132,5 @@ void main()
         cout<<endl;
     }
     display(number,mul,rage,neg);//调用函数
+    system("pause");
 }
